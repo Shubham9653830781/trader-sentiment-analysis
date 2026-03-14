@@ -172,7 +172,7 @@ trader-sentiment-analysis
 # How to Run the Project
 
 1. Clone the repository
-git clone https://github.com/yourusername/trader-sentiment-analysis
+git clone https://github.com/Shubham9653830781/trader-sentiment-analysis.git
 
 2. Install dependencies
 pip install -r requirements.txt
