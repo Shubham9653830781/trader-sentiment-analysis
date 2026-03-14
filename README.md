@@ -178,7 +178,7 @@ git clone https://github.com/yourusername/trader-sentiment-analysis
 pip install -r requirements.txt
 
 3. Run the analysis notebook
-analysis.ipynb	
+trader_sentiment_analysis.ipynb
 
 
 ---
